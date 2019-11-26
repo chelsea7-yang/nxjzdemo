@@ -58,7 +58,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
+  width:43px;
   height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -77,7 +77,7 @@
   position:absolute;
   left:50px;
   top:7px;
-  width:64px;
+  width:43px;
   height:25px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -89,7 +89,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
+  width:43px;
   white-space:nowrap;
 }
 #u77_img {
