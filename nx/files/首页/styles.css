@@ -220,7 +220,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:43px;
+  width:29px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -238,7 +238,7 @@
   position:absolute;
   left:15px;
   top:173px;
-  width:43px;
+  width:29px;
   height:16px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -249,7 +249,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:43px;
+  width:29px;
   white-space:nowrap;
 }
 #u14_div {
@@ -271,7 +271,7 @@
 #u14 {
   position:absolute;
   left:68px;
-  top:173px;
+  top:175px;
   width:78px;
   height:16px;
   font-size:12px;
@@ -878,7 +878,7 @@
 #u55 {
   position:absolute;
   left:0px;
-  top:131px;
+  top:132px;
   width:335px;
   height:71px;
   overflow:hidden;
